@@ -1,0 +1,37 @@
+{
+  "2522e2f0-a330-4e19-9422-7470c39665f5": {
+    "date": "05-27-2021 13:30",
+    "resource": "polymer extruder",
+    "customer": "bill",
+    "reserver":  "alice",
+    "cost": "187.5"
+  },
+  "7b53aebb-d4c6-4727-bd3d-abcf1cca920c": {
+    "date": "05-25-2021 11:30",
+    "resource": "1.21 gigawatt lightning harvester",
+    "customer": "marie",
+    "reserver": "marie",
+    "cost": "3300.0"
+  },
+  "acf2ff21-7290-44f8-a0f0-39459356ceaa": {
+    "date": "05-13-2021 09:00",
+    "resource": "workshop",
+    "customer": "bill",
+    "reserver": "jane",
+    "cost": "49.5"
+  },
+  "30ac472d-430e-4fba-a30d-d7aebd8d37f1": {
+    "date": "05-19-2021 15:00",
+    "resource": "mini microvac",
+    "customer": "bob",
+    "reserver": "bob",
+    "cost": "1000.0"
+  },
+  "f3958895-3153-45eb-b47e-903d43b4b04e": {
+    "date": "05-31-2021 13:30",
+    "resource": "irradiator",
+    "customer": "bob",
+    "reserver": "jane",
+    "cost": "825.0"
+  }
+}

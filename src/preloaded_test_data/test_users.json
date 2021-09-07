@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "name": "Bill",
+    "password": "pwdbill",
+    "role": "client"
+  },
+  "marie": {
+    "name": "Marie",
+    "password": "pwdmarie",
+    "role": "client"
+  },
+  "jane": {
+    "name": "Jane",
+    "password": "pwdjane",
+    "role": "facility manager"
+  },
+  "bob": {
+    "name": "Bob",
+    "password": "pwdbob",
+    "role": "client"
+  },
+  "alice": {
+    "name": "Alice",
+    "password": "pwdalice",
+    "role": "facility manager"
+  },
+  "sergio": {
+    "name": "Sergio",
+    "password": "pwdsergio",
+    "role": "client"
+  },
+  "peter": {
+    "name": "Peter",
+    "password": "pwdpeter",
+    "role": "remote facility manager"
+  },
+  "spencer": {
+    "name": "Spencer",
+    "password": "pwdspencer",
+    "role": "remote facility manager"
+  },
+  "team2": {
+    "name": "Christina",
+    "password": "password2",
+    "role": "remote facility manager"
+  },
+  "team3": {
+    "name": "Pierre",
+    "password": "password3",
+    "role": "remote facility manager"
+  },
+  "team4": {
+    "name": "Danielle",
+    "password": "password4",
+    "role": "remote facility manager"
+  },
+  "team5": {
+    "name": "Dai",
+    "password": "password5",
+    "role": "remote facility manager"
+  }
+}

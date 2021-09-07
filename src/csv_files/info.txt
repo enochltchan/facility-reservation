@@ -1,0 +1,2 @@
+This is a directory for storing exported console reports. All such reports are stored in
+this directory, and are stored as .csv files.

@@ -1,0 +1,62 @@
+{
+  "5c272518-57c5-4b98-8038-221e304e9b70": {
+    "date": "05-07-2021 12:03",
+    "customer": "bill",
+    "amount": "93.75"
+  },
+  "5138036f-ca29-4fb0-b706-ca632d922b56": {
+    "date": "05-27-2021 13:30",
+    "customer": "bill",
+    "amount": "93.75"
+  },
+  "2bb65100-6e6e-4ec3-be4f-d279acec4c31": {
+    "date": "05-07-2021 12:03",
+    "customer": "marie",
+    "amount": "1650.0"
+  },
+  "e0a07ea9-fd83-40b5-bc70-320d2acdb3de": {
+    "date": "05-25-2021 11:30",
+    "customer": "marie",
+    "amount": "1650.0"
+  },
+  "aaece120-939d-4fec-baf2-f56ed6de72e1": {
+    "date": "05-13-2021 09:00",
+    "customer": "jane",
+    "amount": "49.5"
+  },
+  "bfc216be-557f-454c-99a7-b9310144c03f": {
+    "date": "05-07-2021 12:03",
+    "customer": "bob",
+    "amount": "500.0"
+  },
+  "f85e4893-96f3-4a4c-b5c5-1d7f1b16fb86": {
+    "date": "05-19-2021 15:00",
+    "customer": "bob",
+    "amount": "500.0"
+  },
+  "0b1da9c0-81d4-4f8e-bdd0-54457e67eca6": {
+    "date": "05-07-2021 12:07",
+    "customer": "sergio",
+    "amount": "412.5"
+  },
+  "f28f3429-bd80-4642-90b5-1e979678d2ef": {
+    "date": "05-31-2021 11:30",
+    "customer": "sergio",
+    "amount": "412.5"
+  },
+  "f367e52d-63f0-4431-8b78-2430aef40ef7": {
+    "date": "05-07-2021 12:23",
+    "customer": "sergio",
+    "amount": "-412.5"
+  },
+  "8d4dd397-53e2-4b16-8fb0-16869aafdd07": {
+    "date": "05-07-2021 12:25",
+    "customer": "alice",
+    "amount": "412.5"
+  },
+  "e3a882d8-e3e1-4821-9351-ef5ec55813bb": {
+    "date": "05-31-2021 13:30",
+    "customer": "alice",
+    "amount": "412.5"
+  }
+}
